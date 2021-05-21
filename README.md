@@ -9,3 +9,7 @@ subheader
 trying
 again trying!!!
 bye 
+
+## local developement
+
+1. open index.HTML in your browser.
