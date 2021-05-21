@@ -1,3 +1,3 @@
 # tutorial 
 
-first time creating a repo.
+first time creating a repo!
